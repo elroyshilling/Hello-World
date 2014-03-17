@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-My first Git Project
+My first Git Project.
